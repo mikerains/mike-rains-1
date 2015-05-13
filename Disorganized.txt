@@ -2,4 +2,4 @@ Despite it's wide adoption, Github is disorganized and illogical, it was made by
 How did I get back on Master? 
 Why can't I commit to one of my existing branches?  
 Git sucks.
-Honestly.  It is stoopid.
+Honestly.  It is stoopid.  fuck git
